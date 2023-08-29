@@ -4,6 +4,12 @@
 
 <br />
 
+## 📌 배포 링크
+
+> **배포 링크** : **[Vuedongsan](https://apple-vuedongsan.netlify.app/)**
+
+<br />
+
 ## 📌 프로젝트 테스트
 
 ### clone project
